@@ -29,4 +29,4 @@ The PYNQ-Z2 board was used while creating this project. Similar boards may also 
 
 ## GitHub Link
 
-https://github.com/Christian376/Pynq-math-images/tree/master
+https://github.com/Christian376/Pynq-math-images
